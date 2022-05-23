@@ -1,0 +1,13 @@
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1600px;
+    background-color: gray;
+    height: 1600px;
+}
+.g{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    flex: none;
+}
